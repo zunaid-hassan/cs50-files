@@ -1,0 +1,28 @@
+.main-body {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.search-bar {
+  border-radius: 30px;
+  width: 400px;
+  height: 30px;
+}
+
+.search-options {
+  display: flex;
+  justify-content: flex-end;
+  gap: 5px;
+}
+
+.form-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 10px;
+}
+
+/* outline: 2px solid red; */
